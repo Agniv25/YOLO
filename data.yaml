@@ -1,0 +1,6 @@
+path: D:/OPENCV/youtube tutoiral/YOLO-v8-Object-Detection/data/data
+train: train/images
+val: valid/images
+
+nc: 5
+names: ["Helmet", "Goggles", "Jacket", "Gloves", "Footwear"]
